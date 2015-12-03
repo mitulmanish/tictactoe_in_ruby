@@ -1,4 +1,4 @@
-#TicTacToe Game
+##TicTacToe Game
 
 ● To run the script ,please navigate to the root of the submitted folder.
 ● Run “ bundle install “ to install the dependencies
