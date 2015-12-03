@@ -1,3 +1,11 @@
+#TicTacToe Game
+
+● To run the script ,please navigate to the root of the submitted folder.
+● Run “ bundle install “ to install the dependencies
+● Run “ ruby run.rb” to run the program
+● Run “ rspec spec/board_spec.rb “ to run the board test script
+● Run “ rspec spec/player_spec.rb “ to run the player test script
+
 # tictactoe_in_ruby
 TicTacToe (Simple 3 X 3 board game)
 
