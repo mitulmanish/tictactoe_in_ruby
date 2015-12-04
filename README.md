@@ -1,6 +1,6 @@
 ##TicTacToe Game
 
-● To run the script ,please navigate to the root of the submitted folder.
+● To run the script ,please navigate to the root of the folder.
 ● Run “ bundle install “ to install the dependencies
 ● Run “ ruby run.rb” to run the program
 ● Run “ rspec spec/board_spec.rb “ to run the board test script
